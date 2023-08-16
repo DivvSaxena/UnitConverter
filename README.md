@@ -2,18 +2,6 @@
 
 Welcome to the Metric/Imperial Unit Conversion tool! This simple tool allows you to quickly convert measurements between Metric and Imperial units. Whether you're dealing with everyday tasks, DIY projects, or international communication, this tool has got you covered. No more scratching your head over unit conversions – let's make things easy!
 
-## How to Use
-
-Using the Metric/Imperial Unit Conversion tool is straightforward. Just follow these steps:
-
-1. **Choose Your Conversion Type:** Decide whether you want to convert from Metric to Imperial or vice versa.
-
-2. **Select the Units:** Pick the units you want to convert from and to. For example, kilograms to pounds, centimeters to inches, liters to gallons, and so on.
-
-3. **Enter the Value:** Input the value you want to convert. The tool will automatically update the converted value as you type.
-
-4. **View the Result:** Instantly see the converted measurement in the designated unit.
-
 ## Supported Conversions
 
 Our tool supports a wide range of Metric and Imperial unit conversions, including but not limited to:
