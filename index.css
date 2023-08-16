@@ -36,6 +36,7 @@ button{
     padding: 20px 30px;
     font-weight: 500;
     font-size: 24px;
+    cursor: pointer;
 }
 .containertwo{
     background: #F4F4F4;
