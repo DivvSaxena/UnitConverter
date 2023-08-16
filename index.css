@@ -30,6 +30,7 @@ input::placeholder {
     background: #6943FF;
     color: #FFFFFF;
     text-align: center;
+    cursor: pointer;
 }
 button{
     padding: 20px 30px;
