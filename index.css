@@ -1,6 +1,9 @@
 body {
     margin: 0;
 }
+input::placeholder {
+    color: white;
+  }
 .container{
     background: #6943FF;
     height: 460px;
